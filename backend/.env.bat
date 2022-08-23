@@ -1,0 +1,9 @@
+set CLOUD_NAME=dmbo1ydep
+set API_KEY=787594137584941
+set API_SECRET=rMlIcGckuS_RoeHHq5WBSC3syAU
+set SECRET_KEY='django-insecure-1%bll_o-(l^hp$o!jij8i9=&!)&b-5dy_h+i@@si&$5l2wqjoo'
+set SOCIAL_KEY='django-insecure-1%bll_o-(@)'
+set EMAIL_HOST_USER=lehoangdt9@gmail.com
+set EMAIL_HOST_PASSWORD=nrebdjqtdcxfniiw
+set GOOGLE_CLIENT_ID=1886585723-61lqgmr2ib9b5kh7eogji4ejhsbbfcqp.apps.googleusercontent.com
+set GOOGLE_CLIENT_SECRET=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
